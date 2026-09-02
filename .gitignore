@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.sys
+*.tar.gz
+*.zip
+EOF
